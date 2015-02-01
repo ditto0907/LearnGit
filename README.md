@@ -1,4 +1,3 @@
 # LearnGit
-DASD 
-ASDAD 
-ASDAS
+
+Creating a new branch is quick.
